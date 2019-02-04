@@ -11,6 +11,7 @@ import java.util.Optional;
 @Repository
 public interface TrainerRepository extends CrudRepository<Trainer, String> {
     List<Trainer> findAll();
+    @Override
     Optional<Trainer> findById(String name);
-    Trainer save(Trainer trainer);
+
 }

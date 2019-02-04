@@ -1,8 +1,8 @@
 package com.miage.altea.tp.trainer_api.controller;
 
 import com.miage.altea.tp.trainer_api.service.TrainerService;
-import org.junit.Test;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
@@ -10,9 +10,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import static org.junit.Assert.*;
 
-import static org.junit.Assert.assertNotNull;
-import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.mockito.Mockito.verify;
 
 public class TrainerControllerTest {

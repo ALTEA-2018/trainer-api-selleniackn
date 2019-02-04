@@ -9,8 +9,7 @@
         <module name="trainer-api-selleniackn" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="trainer-api" target="11" />
+    <bytecodeTargetLevel target="11">
       <module name="trainer-api-selleniackn" target="11" />
     </bytecodeTargetLevel>
   </component>

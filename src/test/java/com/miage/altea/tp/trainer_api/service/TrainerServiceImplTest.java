@@ -2,8 +2,7 @@ package com.miage.altea.tp.trainer_api.service;
 
 import com.miage.altea.tp.trainer_api.bo.Trainer;
 import com.miage.altea.tp.trainer_api.repository.TrainerRepository;
-import org.junit.Test;
-
+import org.junit.jupiter.api.Test;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.verify;
 
