@@ -1,8 +1,9 @@
 package com.miage.altea.tp.trainer_api.bo;
 
 
-import org.junit.Test;
 
+
+import org.junit.jupiter.api.Test;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

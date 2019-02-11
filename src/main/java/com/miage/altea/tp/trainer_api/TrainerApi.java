@@ -4,6 +4,7 @@ import com.miage.altea.tp.trainer_api.bo.Pokemon;
 import com.miage.altea.tp.trainer_api.bo.Trainer;
 import com.miage.altea.tp.trainer_api.repository.TrainerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

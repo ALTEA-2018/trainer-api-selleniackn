@@ -4,6 +4,7 @@ import javax.persistence.*;
 @Entity
 public class Pokemon {
     @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private int id;
 
     private int pokemonType;
