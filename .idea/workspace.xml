@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f76e3df1-73f5-4586-88d6-c798fe834ba3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/bo/Trainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/bo/Trainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/controller/TrainerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/controller/TrainerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/repository/TrainerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/repository/TrainerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/controller/TrainerControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/controller/TrainerControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/service/TrainerServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/service/TrainerServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/miage/altea/tp/trainer_api/TrainerApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/miage/altea/tp/trainer_api/bo/Pokemon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/miage/altea/tp/trainer_api/bo/Trainer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/miage/altea/tp/trainer_api/controller/TrainerController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/miage/altea/tp/trainer_api/repository/TrainerRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/miage/altea/tp/trainer_api/service/TrainerService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/miage/altea/tp/trainer_api/service/TrainerServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.miage.altea.tp.trainer_api.bo.TrainerTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/miage/altea/tp/trainer_api/bo/PokemonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/miage/altea/tp/trainer_api/bo/TrainerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/miage/altea/tp/trainer_api/controller/TrainerControllerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/miage/altea/tp/trainer_api/repository/TrainerRepositoryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/miage/altea/tp/trainer_api/service/TrainerServiceImplTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,38 +16,39 @@
     <session id="-353137435">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="48" />
+          <entry key="java" value="53" />
           <entry key="properties" value="3" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="48" />
+          <entry key="JAVA" value="53" />
           <entry key="Properties" value="3" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="753" />
+          <entry key="java" value="777" />
           <entry key="properties" value="18" />
           <entry key="xml" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="753" />
+          <entry key="JAVA" value="777" />
           <entry key="Properties" value="18" />
           <entry key="XML" value="14" />
         </counts>
@@ -83,11 +57,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/TrainerApi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="495">
+              <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/bo/PokemonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/bo/Trainer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/bo/Pokemon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/repository/TrainerRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/controller/TrainerControllerIntegrationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#957#958#0" expanded="true" />
+                <element signature="e#998#999#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,7 +140,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Artifact</find>
+      <find>CommandLineRunner</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,11 +152,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/TrainerApi.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/bo/Pokemon.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/bo/TrainerTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/bo/PokemonTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/service/TrainerService.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/repository/TrainerRepositoryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/service/TrainerServiceImpl.java" />
@@ -127,6 +164,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/service/TrainerServiceImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/controller/TrainerControllerIntegrationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/bo/Pokemon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/TrainerApi.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/bo/PokemonTest.java" />
       </list>
     </option>
   </component>
@@ -214,6 +254,15 @@
               <item name="trainer-api-selleniackn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trainer_api" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trainer-api-selleniackn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trainer-api-selleniackn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -244,6 +293,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="trainer_api" type="462c0819:PsiDirectoryNode" />
+              <item name="bo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trainer-api-selleniackn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trainer-api-selleniackn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="trainer_api" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -260,8 +318,8 @@
     <property name="SearchEverywhereHistoryKey" value="sett&#9;ACTION&#9;Database.Settings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549294101130" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549872747671" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pokemon-ui-selleniackn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -285,7 +343,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TrainerControllerIntegrationTest">
+  <component name="RunManager" selected="JUnit.All in trainer-api-selleniackn">
     <configuration name="All in trainer-api-selleniackn (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="trainer-api-selleniackn" />
       <option name="PACKAGE_NAME" value="" />
@@ -541,10 +599,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in trainer-api-selleniackn" />
         <item itemvalue="JUnit.TrainerControllerIntegrationTest" />
         <item itemvalue="JUnit.All in trainer-api-selleniackn (2)" />
         <item itemvalue="JUnit.All in trainer-api-selleniackn (1)" />
-        <item itemvalue="JUnit.All in trainer-api-selleniackn" />
         <item itemvalue="JUnit.TrainerServiceImplTest" />
       </list>
     </recent_temporary>
@@ -563,19 +621,11 @@
       <workItem from="1549275170047" duration="42000" />
       <workItem from="1549275232048" duration="5015000" />
       <workItem from="1549290872919" duration="3225000" />
+      <workItem from="1549869769966" duration="3409000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_trainer-api-selleniackn - 2019.02.04 at 15h 38m 55s.xml">
-      <configuration name="All in trainer-api-selleniackn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_trainer-api-selleniackn_(1) - 2019.02.04 at 15h 45m 24s.xml">
-      <configuration name="All in trainer-api-selleniackn (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_trainer-api-selleniackn_(2) - 2019.02.04 at 15h 49m 20s.xml">
-      <configuration name="All in trainer-api-selleniackn (2)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_trainer-api-selleniackn_(3) - 2019.02.04 at 15h 51m 26s.xml">
       <configuration name="All in trainer-api-selleniackn (3)" configurationId="JUnit" />
     </history-entry>
@@ -597,15 +647,24 @@
     <history-entry file="TrainerControllerIntegrationTest - 2019.02.04 at 16h 24m 58s.xml">
       <configuration name="TrainerControllerIntegrationTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_trainer-api-selleniackn - 2019.02.11 at 08h 37m 11s.xml">
+      <configuration name="All in trainer-api-selleniackn" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrainerControllerIntegrationTest - 2019.02.11 at 09h 07m 33s.xml">
+      <configuration name="TrainerControllerIntegrationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_trainer-api-selleniackn - 2019.02.11 at 09h 11m 57s.xml">
+      <configuration name="All in trainer-api-selleniackn" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11588000" />
+    <option name="totallyTimeSpent" value="14997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="31" width="1920" height="1049" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24759872" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25026682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -613,10 +672,9 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32968238" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -628,6 +686,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497332" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -734,30 +793,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/bo/PokemonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/controller/TrainerControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/repository/TrainerRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,10 +814,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/bo/Pokemon.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="825">
+          <caret line="55" column="39" lean-forward="true" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/repository/TrainerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/controller/TrainerControllerIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#998#999#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/TrainerApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/bo/PokemonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -792,29 +873,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/bo/Pokemon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="39" lean-forward="true" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/miage/altea/tp/trainer_api/controller/TrainerControllerIntegrationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/miage/altea/tp/trainer_api/TrainerApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="390">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
